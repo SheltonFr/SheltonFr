@@ -16,7 +16,7 @@
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>JavaScriot</li>
+    <li>JavaScript</li>
     <li>TypeScript</li>
     <li>Tailwind Css</li>
     <li>React Js</li>
