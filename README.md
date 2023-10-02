@@ -10,7 +10,7 @@
 <p>I'm Shelton Francisco, a FullStack Web Developer mainly focused in Java and Javascript Technologies and started to learn native android development with Kotlin and Compose.</p>
 
 <h2>Abount my stack</h2>
-<p>As previously said, I'm a web developer and an android developer too. Take a look on my current stuck:</p>
+<p>As previously said, I'm a web developer and an android developer too. Take a look on my current stack:</p>
 <div>
   <h3>Frontend</h3>
   <ul>
