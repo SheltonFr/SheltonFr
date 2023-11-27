@@ -25,6 +25,7 @@
   
   <h3>Backend</h3>
   <ul>
+    <li>Rust</li>
     <li>Express Js</li>
     <li>Fastify</li>
     <li>Java</li>
